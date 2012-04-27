@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/7490/branches/1.2/tests/Transaction
+END
+MssqlTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/7490/branches/1.2/tests/Transaction/MssqlTestCase.php
+END
+SqliteTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/7490/branches/1.2/tests/Transaction/SqliteTestCase.php
+END
+MysqlTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/7490/branches/1.2/tests/Transaction/MysqlTestCase.php
+END
+OracleTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/7490/branches/1.2/tests/Transaction/OracleTestCase.php
+END
+PgsqlTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/7490/branches/1.2/tests/Transaction/PgsqlTestCase.php
+END

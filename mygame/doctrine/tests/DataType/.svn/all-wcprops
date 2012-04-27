@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/7490/branches/1.2/tests/DataType
+END
+BooleanTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/7490/branches/1.2/tests/DataType/BooleanTestCase.php
+END
+EnumTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7490/branches/1.2/tests/DataType/EnumTestCase.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/7490/branches/1.2/tests/Cache
+END
+ArrayTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/7490/branches/1.2/tests/Cache/ArrayTestCase.php
+END
+SqliteTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/7490/branches/1.2/tests/Cache/SqliteTestCase.php
+END
+MemcacheTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7490/branches/1.2/tests/Cache/MemcacheTestCase.php
+END
+AbstractTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7490/branches/1.2/tests/Cache/AbstractTestCase.php
+END
+ApcTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/7490/branches/1.2/tests/Cache/ApcTestCase.php
+END
+DbTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/7490/branches/1.2/tests/Cache/DbTestCase.php
+END
+QuerySqliteTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/6484/branches/1.2/tests/Cache/QuerySqliteTestCase.php
+END
+XcacheTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/7490/branches/1.2/tests/Cache/XcacheTestCase.php
+END

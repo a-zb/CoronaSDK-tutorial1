@@ -1,0 +1,1109 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/6484/branches/1.2/tests/models
+END
+Photo.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/5900/branches/1.2/tests/models/Photo.php
+END
+ResourceType.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5900/branches/1.2/tests/models/ResourceType.php
+END
+PluginSymfonyRecordTable.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/5900/branches/1.2/tests/models/PluginSymfonyRecordTable.php
+END
+mmrUser_B.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5900/branches/1.2/tests/models/mmrUser_B.php
+END
+CategoryWithPosition.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/5900/branches/1.2/tests/models/CategoryWithPosition.php
+END
+CPK_Test2.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5900/branches/1.2/tests/models/CPK_Test2.php
+END
+BaseSymfonyRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/5900/branches/1.2/tests/models/BaseSymfonyRecord.php
+END
+Forum_Board.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5900/branches/1.2/tests/models/Forum_Board.php
+END
+PackageVersion.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5900/branches/1.2/tests/models/PackageVersion.php
+END
+Record_Country.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5900/branches/1.2/tests/models/Record_Country.php
+END
+MyGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5900/branches/1.2/tests/models/MyGroup.php
+END
+EnumTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5900/branches/1.2/tests/models/EnumTest.php
+END
+TestMovieUserBookmark.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/5900/branches/1.2/tests/models/TestMovieUserBookmark.php
+END
+ValidatorTest_ClientModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/5900/branches/1.2/tests/models/ValidatorTest_ClientModel.php
+END
+Assignment.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5900/branches/1.2/tests/models/Assignment.php
+END
+NestedSetTest_SingleRootNode.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/5900/branches/1.2/tests/models/NestedSetTest_SingleRootNode.php
+END
+Forum_Entry.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5900/branches/1.2/tests/models/Forum_Entry.php
+END
+QueryTest_Subscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/5900/branches/1.2/tests/models/QueryTest_Subscription.php
+END
+PackageVersionNotes.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/5900/branches/1.2/tests/models/PackageVersionNotes.php
+END
+ORM_TestItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5900/branches/1.2/tests/models/ORM_TestItem.php
+END
+ValidatorTest_Person.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/5900/branches/1.2/tests/models/ValidatorTest_Person.php
+END
+Entity.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/5900/branches/1.2/tests/models/Entity.php
+END
+PolicyN.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5901/branches/1.2/tests/models/PolicyN.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5900/branches/1.2/tests/models/User.php
+END
+ConcreteGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5900/branches/1.2/tests/models/ConcreteGroup.php
+END
+FieldNameTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5900/branches/1.2/tests/models/FieldNameTest.php
+END
+Phototag.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5900/branches/1.2/tests/models/Phototag.php
+END
+Address.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5900/branches/1.2/tests/models/Address.php
+END
+SerializeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5900/branches/1.2/tests/models/SerializeTest.php
+END
+Element.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5900/branches/1.2/tests/models/Element.php
+END
+Book.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5900/branches/1.2/tests/models/Book.php
+END
+NotNullTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5900/branches/1.2/tests/models/NotNullTest.php
+END
+ORM_AccessControlsGroups.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/5900/branches/1.2/tests/models/ORM_AccessControlsGroups.php
+END
+Author.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/5900/branches/1.2/tests/models/Author.php
+END
+Bookmark.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5900/branches/1.2/tests/models/Bookmark.php
+END
+Record_City.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5900/branches/1.2/tests/models/Record_City.php
+END
+FilterTest2.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5900/branches/1.2/tests/models/FilterTest2.php
+END
+SequenceRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5900/branches/1.2/tests/models/SequenceRecord.php
+END
+Location.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5900/branches/1.2/tests/models/Location.php
+END
+QueryTest_Board.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5900/branches/1.2/tests/models/QueryTest_Board.php
+END
+CPK_Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5900/branches/1.2/tests/models/CPK_Test.php
+END
+TestMovieUserVote.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/5900/branches/1.2/tests/models/TestMovieUserVote.php
+END
+DateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5900/branches/1.2/tests/models/DateTest.php
+END
+TestRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5900/branches/1.2/tests/models/TestRecord.php
+END
+ORM_AccessControl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/5900/branches/1.2/tests/models/ORM_AccessControl.php
+END
+InheritanceDeal.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5900/branches/1.2/tests/models/InheritanceDeal.php
+END
+I18nTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5900/branches/1.2/tests/models/I18nTest.php
+END
+QueryTest_UserRank.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/5900/branches/1.2/tests/models/QueryTest_UserRank.php
+END
+TestMovie.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5900/branches/1.2/tests/models/TestMovie.php
+END
+NestedSet_MultiRootNode.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/5900/branches/1.2/tests/models/NestedSet_MultiRootNode.php
+END
+Description.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5900/branches/1.2/tests/models/Description.php
+END
+Forum_Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5900/branches/1.2/tests/models/Forum_Category.php
+END
+FilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5900/branches/1.2/tests/models/FilterTest.php
+END
+QueryTest_Entry.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5900/branches/1.2/tests/models/QueryTest_Entry.php
+END
+TreeLeaf.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5900/branches/1.2/tests/models/TreeLeaf.php
+END
+UnderscoreColumn.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5900/branches/1.2/tests/models/UnderscoreColumn.php
+END
+NestReference.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5900/branches/1.2/tests/models/NestReference.php
+END
+InheritanceUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5900/branches/1.2/tests/models/InheritanceUser.php
+END
+NestedSet_Timestampable_MultiRootNode.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/5900/branches/1.2/tests/models/NestedSet_Timestampable_MultiRootNode.php
+END
+File_Owner.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5900/branches/1.2/tests/models/File_Owner.php
+END
+SoftDeleteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5900/branches/1.2/tests/models/SoftDeleteTest.php
+END
+Album.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/5900/branches/1.2/tests/models/Album.php
+END
+Role.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5900/branches/1.2/tests/models/Role.php
+END
+QueryTest_Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/5900/branches/1.2/tests/models/QueryTest_Category.php
+END
+MyUser2.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5900/branches/1.2/tests/models/MyUser2.php
+END
+GzipTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5900/branches/1.2/tests/models/GzipTest.php
+END
+mmrGroup_C.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5900/branches/1.2/tests/models/mmrGroup_C.php
+END
+ValidatorTest_AddressModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/5900/branches/1.2/tests/models/ValidatorTest_AddressModel.php
+END
+ZeroValueTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5900/branches/1.2/tests/models/ZeroValueTest.php
+END
+JC1.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/5900/branches/1.2/tests/models/JC1.php
+END
+JC3.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/5900/branches/1.2/tests/models/JC3.php
+END
+MyUserOneThing.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5900/branches/1.2/tests/models/MyUserOneThing.php
+END
+Email.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/5930/branches/1.2/tests/models/Email.php
+END
+EnumTest3.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5900/branches/1.2/tests/models/EnumTest3.php
+END
+Error.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/5900/branches/1.2/tests/models/Error.php
+END
+EventListenerChainTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/5900/branches/1.2/tests/models/EventListenerChainTest.php
+END
+LiabilityCodeN.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5901/branches/1.2/tests/models/LiabilityCodeN.php
+END
+Rec2.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5900/branches/1.2/tests/models/Rec2.php
+END
+ClientModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5900/branches/1.2/tests/models/ClientModel.php
+END
+FooForeignlyOwned.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/5900/branches/1.2/tests/models/FooForeignlyOwned.php
+END
+RecordHookTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5900/branches/1.2/tests/models/RecordHookTest.php
+END
+Auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5900/branches/1.2/tests/models/Auth.php
+END
+ForeignKeyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5900/branches/1.2/tests/models/ForeignKeyTest.php
+END
+BarRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5900/branches/1.2/tests/models/BarRecord.php
+END
+CoverageCodeN.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5901/branches/1.2/tests/models/CoverageCodeN.php
+END
+SearchTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5900/branches/1.2/tests/models/SearchTest.php
+END
+ResourceReference.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/5900/branches/1.2/tests/models/ResourceReference.php
+END
+Song.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5900/branches/1.2/tests/models/Song.php
+END
+CascadeDeleteRelatedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/5900/branches/1.2/tests/models/CascadeDeleteRelatedTest.php
+END
+FooBarRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5900/branches/1.2/tests/models/FooBarRecord.php
+END
+LocationI18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5900/branches/1.2/tests/models/LocationI18n.php
+END
+mmrGroupUser_B.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5900/branches/1.2/tests/models/mmrGroupUser_B.php
+END
+RTC2.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5900/branches/1.2/tests/models/RTC2.php
+END
+RTC4.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5900/branches/1.2/tests/models/RTC4.php
+END
+M2MTest2.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5900/branches/1.2/tests/models/M2MTest2.php
+END
+ConcreteGroupUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/5900/branches/1.2/tests/models/ConcreteGroupUser.php
+END
+BooleanTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5900/branches/1.2/tests/models/BooleanTest.php
+END
+MyOtherThing.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5900/branches/1.2/tests/models/MyOtherThing.php
+END
+MysqlGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5900/branches/1.2/tests/models/MysqlGroup.php
+END
+MyUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/5900/branches/1.2/tests/models/MyUser.php
+END
+BadlyNamed__Class.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/5900/branches/1.2/tests/models/BadlyNamed__Class.php
+END
+FooForeignlyOwnedWithPK.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/5900/branches/1.2/tests/models/FooForeignlyOwnedWithPK.php
+END
+EntityReference.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5900/branches/1.2/tests/models/EntityReference.php
+END
+mmrUser_C.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5900/branches/1.2/tests/models/mmrUser_C.php
+END
+FooLocallyOwned.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5900/branches/1.2/tests/models/FooLocallyOwned.php
+END
+FooReferenceRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/5900/branches/1.2/tests/models/FooReferenceRecord.php
+END
+gnatEmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5900/branches/1.2/tests/models/gnatEmail.php
+END
+Log_Entry.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5900/branches/1.2/tests/models/Log_Entry.php
+END
+MysqlTestRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5900/branches/1.2/tests/models/MysqlTestRecord.php
+END
+BookmarkUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5900/branches/1.2/tests/models/BookmarkUser.php
+END
+Data_File.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5900/branches/1.2/tests/models/Data_File.php
+END
+CPK_Association.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5900/branches/1.2/tests/models/CPK_Association.php
+END
+RateN.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/5901/branches/1.2/tests/models/RateN.php
+END
+ConcreteEmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5900/branches/1.2/tests/models/ConcreteEmail.php
+END
+SymfonyRecordTable.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/5900/branches/1.2/tests/models/SymfonyRecordTable.php
+END
+I18nRelationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5900/branches/1.2/tests/models/I18nRelationTest.php
+END
+InheritanceDealUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/5900/branches/1.2/tests/models/InheritanceDealUser.php
+END
+BlogTag.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5900/branches/1.2/tests/models/BlogTag.php
+END
+MyUserOtherThing.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5900/branches/1.2/tests/models/MyUserOtherThing.php
+END
+App.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/5900/branches/1.2/tests/models/App.php
+END
+QueryTest_Item.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5900/branches/1.2/tests/models/QueryTest_Item.php
+END
+EventListenerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/6484/branches/1.2/tests/models/EventListenerTest.php
+END
+Resource.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5900/branches/1.2/tests/models/Resource.php
+END
+MigrationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5900/branches/1.2/tests/models/MigrationTest.php
+END
+CascadeDeleteRelatedTest2.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/5900/branches/1.2/tests/models/CascadeDeleteRelatedTest2.php
+END
+MysqlIndexTestRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/5900/branches/1.2/tests/models/MysqlIndexTestRecord.php
+END
+ColumnAliasTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5900/branches/1.2/tests/models/ColumnAliasTest.php
+END
+MysqlGroupMember.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5900/branches/1.2/tests/models/MysqlGroupMember.php
+END
+ORM_TestEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5900/branches/1.2/tests/models/ORM_TestEntry.php
+END
+VersioningTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5900/branches/1.2/tests/models/VersioningTest.php
+END
+RecordFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5900/branches/1.2/tests/models/RecordFilterTest.php
+END
+ValidatorTest_FootballPlayer.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/5900/branches/1.2/tests/models/ValidatorTest_FootballPlayer.php
+END
+Package.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5900/branches/1.2/tests/models/Package.php
+END
+ORM_AccessGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5900/branches/1.2/tests/models/ORM_AccessGroup.php
+END
+M2MTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5900/branches/1.2/tests/models/M2MTest.php
+END
+GroupUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5900/branches/1.2/tests/models/GroupUser.php
+END
+Account.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/5900/branches/1.2/tests/models/Account.php
+END
+PolicyAsset.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5900/branches/1.2/tests/models/PolicyAsset.php
+END
+Policy.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/5900/branches/1.2/tests/models/Policy.php
+END
+MyUserGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5900/branches/1.2/tests/models/MyUserGroup.php
+END
+CustomSequenceRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/5900/branches/1.2/tests/models/CustomSequenceRecord.php
+END
+SoftDeleteBCTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5900/branches/1.2/tests/models/SoftDeleteBCTest.php
+END
+SymfonyRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5900/branches/1.2/tests/models/SymfonyRecord.php
+END
+ValidatorTest_DateModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/5900/branches/1.2/tests/models/ValidatorTest_DateModel.php
+END
+PolicyCodeN.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5901/branches/1.2/tests/models/PolicyCodeN.php
+END
+BoardWithPosition.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/5900/branches/1.2/tests/models/BoardWithPosition.php
+END
+mmrGroup_B.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5900/branches/1.2/tests/models/mmrGroup_B.php
+END
+Page.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5900/branches/1.2/tests/models/Page.php
+END
+App_Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5900/branches/1.2/tests/models/App_Category.php
+END
+RelationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5900/branches/1.2/tests/models/RelationTest.php
+END
+JC2.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/5900/branches/1.2/tests/models/JC2.php
+END
+TestUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5900/branches/1.2/tests/models/TestUser.php
+END
+QueryTest_Rank.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5900/branches/1.2/tests/models/QueryTest_Rank.php
+END
+PluginSymfonyRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/5900/branches/1.2/tests/models/PluginSymfonyRecord.php
+END
+CheckConstraintTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/5900/branches/1.2/tests/models/CheckConstraintTest.php
+END
+EntityAddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5900/branches/1.2/tests/models/EntityAddress.php
+END
+Blog.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5900/branches/1.2/tests/models/Blog.php
+END
+ValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/5900/branches/1.2/tests/models/ValidatorTest.php
+END
+EnumTest2.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5900/branches/1.2/tests/models/EnumTest2.php
+END
+SelfRefTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5900/branches/1.2/tests/models/SelfRefTest.php
+END
+Rec1.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5900/branches/1.2/tests/models/Rec1.php
+END
+Group.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/5900/branches/1.2/tests/models/Group.php
+END
+ConcreteUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5900/branches/1.2/tests/models/ConcreteUser.php
+END
+Task.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5900/branches/1.2/tests/models/Task.php
+END
+QueryTest_User.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5900/branches/1.2/tests/models/QueryTest_User.php
+END
+MysqlUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5900/branches/1.2/tests/models/MysqlUser.php
+END
+CustomPK.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5900/branches/1.2/tests/models/CustomPK.php
+END
+CascadeDeleteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/5900/branches/1.2/tests/models/CascadeDeleteTest.php
+END
+NestTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5900/branches/1.2/tests/models/NestTest.php
+END
+RTC1.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5900/branches/1.2/tests/models/RTC1.php
+END
+mmrGroupUser_C.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/5900/branches/1.2/tests/models/mmrGroupUser_C.php
+END
+RTC3.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/5900/branches/1.2/tests/models/RTC3.php
+END
+Tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/5900/branches/1.2/tests/models/Tag.php
+END
+ValidatorTest_ClientToAddressModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/5901/branches/1.2/tests/models/ValidatorTest_ClientToAddressModel.php
+END
+App_User.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5900/branches/1.2/tests/models/App_User.php
+END
+Forum_Thread.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5900/branches/1.2/tests/models/Forum_Thread.php
+END
+MyOneThing.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5900/branches/1.2/tests/models/MyOneThing.php
+END
+Phonenumber.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/5900/branches/1.2/tests/models/Phonenumber.php
+END
+FooRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/5900/branches/1.2/tests/models/FooRecord.php
+END
+Record_District.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5900/branches/1.2/tests/models/Record_District.php
+END
+Log_Status.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5900/branches/1.2/tests/models/Log_Status.php
+END
+ForeignKeyTest2.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/5900/branches/1.2/tests/models/ForeignKeyTest2.php
+END
+ConcreteInheritanceTestParent.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/5900/branches/1.2/tests/models/ConcreteInheritanceTestParent.php
+END
+gnatUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/5900/branches/1.2/tests/models/gnatUser.php
+END

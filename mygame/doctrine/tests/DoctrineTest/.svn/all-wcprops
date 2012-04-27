@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/7490/branches/1.2/tests/DoctrineTest
+END
+Coverage.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7490/branches/1.2/tests/DoctrineTest/Coverage.php
+END
+UnitTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/7252/branches/1.2/tests/DoctrineTest/UnitTestCase.php
+END
+GroupTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/6751/branches/1.2/tests/DoctrineTest/GroupTest.php
+END
+Doctrine_UnitTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/7490/branches/1.2/tests/DoctrineTest/Doctrine_UnitTestCase.php
+END
+Reporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/6054/branches/1.2/tests/DoctrineTest/Reporter.php
+END

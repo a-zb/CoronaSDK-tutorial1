@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/5900/branches/1.2/tests/ModelLoadingTest/Conservative
+END
+BaseConservativeModelLoadingUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/5900/branches/1.2/tests/ModelLoadingTest/Conservative/BaseConservativeModelLoadingUser.php
+END
+ConservativeModelLoadingContact.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/5900/branches/1.2/tests/ModelLoadingTest/Conservative/ConservativeModelLoadingContact.php
+END
+ConservativeModelLoadingUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/5900/branches/1.2/tests/ModelLoadingTest/Conservative/ConservativeModelLoadingUser.php
+END
+ConservativeModelLoadingProfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/5900/branches/1.2/tests/ModelLoadingTest/Conservative/ConservativeModelLoadingProfile.php
+END

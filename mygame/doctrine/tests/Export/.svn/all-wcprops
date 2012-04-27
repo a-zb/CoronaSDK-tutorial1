@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/7632/branches/1.2/tests/Export
+END
+RecordTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7490/branches/1.2/tests/Export/RecordTestCase.php
+END
+MssqlTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/7490/branches/1.2/tests/Export/MssqlTestCase.php
+END
+SchemaTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7490/branches/1.2/tests/Export/SchemaTestCase.php
+END
+SqliteTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7490/branches/1.2/tests/Export/SqliteTestCase.php
+END
+CheckConstraintTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/7490/branches/1.2/tests/Export/CheckConstraintTestCase.php
+END
+MysqlTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/7544/branches/1.2/tests/Export/MysqlTestCase.php
+END
+OracleTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7490/branches/1.2/tests/Export/OracleTestCase.php
+END
+PgsqlTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/7632/branches/1.2/tests/Export/PgsqlTestCase.php
+END

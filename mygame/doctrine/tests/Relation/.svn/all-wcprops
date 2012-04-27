@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/7490/branches/1.2/tests/Relation
+END
+ManyToMany2TestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/7490/branches/1.2/tests/Relation/ManyToMany2TestCase.php
+END
+ColumnAliasesTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/5900/branches/1.2/tests/Relation/ColumnAliasesTestCase.php
+END
+AccessTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/5901/branches/1.2/tests/Relation/AccessTestCase.php
+END
+OneToOneTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/7490/branches/1.2/tests/Relation/OneToOneTestCase.php
+END
+OrderByTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/7490/branches/1.2/tests/Relation/OrderByTestCase.php
+END
+NestTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7490/branches/1.2/tests/Relation/NestTestCase.php
+END
+OneToManyTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/7490/branches/1.2/tests/Relation/OneToManyTestCase.php
+END
+CircularSavingTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/7490/branches/1.2/tests/Relation/CircularSavingTestCase.php
+END
+ManyToManyTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/5900/branches/1.2/tests/Relation/ManyToManyTestCase.php
+END
+ParserTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/7490/branches/1.2/tests/Relation/ParserTestCase.php
+END

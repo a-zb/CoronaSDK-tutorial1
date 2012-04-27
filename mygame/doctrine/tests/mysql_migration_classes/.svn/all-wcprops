@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/5900/branches/1.2/tests/mysql_migration_classes
+END
+001_mysql_add_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/5900/branches/1.2/tests/mysql_migration_classes/001_mysql_add_table.php
+END
+002_mysql_change_column.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/5900/branches/1.2/tests/mysql_migration_classes/002_mysql_change_column.php
+END

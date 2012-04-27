@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/5946/branches/1.2/tests/DoctrineTest/Reporter
+END
+Html.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/5946/branches/1.2/tests/DoctrineTest/Reporter/Html.php
+END
+Cli.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/5946/branches/1.2/tests/DoctrineTest/Reporter/Cli.php
+END

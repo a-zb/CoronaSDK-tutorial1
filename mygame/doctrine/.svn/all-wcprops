@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/!svn/ver/7691/branches/1.2
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/5900/branches/1.2/LICENSE
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/6894/branches/1.2/CHANGELOG
+END
+build.properties.dev
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/7687/branches/1.2/build.properties.dev
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/7490/branches/1.2/COPYRIGHT
+END
+UPGRADE_TO_1_2
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/7022/branches/1.2/UPGRADE_TO_1_2
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/7687/branches/1.2/build.xml
+END

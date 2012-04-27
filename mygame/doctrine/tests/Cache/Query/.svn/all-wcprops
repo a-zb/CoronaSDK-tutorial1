@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/7490/branches/1.2/tests/Cache/Query
+END
+SqliteTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/7490/branches/1.2/tests/Cache/Query/SqliteTestCase.php
+END
