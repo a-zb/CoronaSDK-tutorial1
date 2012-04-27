@@ -7,8 +7,8 @@ $manager = Doctrine_Manager::getInstance();
 
 //Le database and other goodies
 $dsn = 'mysql:dbname=mygame;host=127.0.0.1';
-$dbuser = 'root';
-$dbpass = '123456';
+$dbuser = 'letme';
+$dbpass = 'in';
 $dbh = new PDO( $dsn, $dbuser, $dbpass );
 
 $dbcon = Doctrine_Manager::connection($dbh);
