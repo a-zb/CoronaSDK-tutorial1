@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/7691/branches/1.2/tests/Query
+END
+OneToOneFetchingTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/7490/branches/1.2/tests/Query/OneToOneFetchingTestCase.php
+END
+SelectExpressionTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/7490/branches/1.2/tests/Query/SelectExpressionTestCase.php
+END
+ShortAliasesTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/7691/branches/1.2/tests/Query/ShortAliasesTestCase.php
+END
+MysqlSubqueryHavingTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/7490/branches/1.2/tests/Query/MysqlSubqueryHavingTestCase.php
+END
+DeleteTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/7490/branches/1.2/tests/Query/DeleteTestCase.php
+END
+JoinConditionTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/7490/branches/1.2/tests/Query/JoinConditionTestCase.php
+END
+RegistryTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7490/branches/1.2/tests/Query/RegistryTestCase.php
+END
+RemoveQueryPartTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/7490/branches/1.2/tests/Query/RemoveQueryPartTestCase.php
+END
+MultiJoinTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/7490/branches/1.2/tests/Query/MultiJoinTestCase.php
+END
+HavingTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/7490/branches/1.2/tests/Query/HavingTestCase.php
+END
+SelectTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/7490/branches/1.2/tests/Query/SelectTestCase.php
+END
+ReferenceModelTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/7490/branches/1.2/tests/Query/ReferenceModelTestCase.php
+END
+SubqueryTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7674/branches/1.2/tests/Query/SubqueryTestCase.php
+END
+AggregateValueTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/7490/branches/1.2/tests/Query/AggregateValueTestCase.php
+END
+PgsqlSubqueryTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/7490/branches/1.2/tests/Query/PgsqlSubqueryTestCase.php
+END
+ConditionTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/7490/branches/1.2/tests/Query/ConditionTestCase.php
+END
+DriverTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/7490/branches/1.2/tests/Query/DriverTestCase.php
+END
+MultiJoin2TestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/7490/branches/1.2/tests/Query/MultiJoin2TestCase.php
+END
+MultipleAggregateValueTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/7490/branches/1.2/tests/Query/MultipleAggregateValueTestCase.php
+END
+JoinTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/7618/branches/1.2/tests/Query/JoinTestCase.php
+END
+ApplyInheritanceTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/7490/branches/1.2/tests/Query/ApplyInheritanceTestCase.php
+END
+ExpressionTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/7490/branches/1.2/tests/Query/ExpressionTestCase.php
+END
+CacheTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/7490/branches/1.2/tests/Query/CacheTestCase.php
+END
+FromTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/7490/branches/1.2/tests/Query/FromTestCase.php
+END
+MysqlSubqueryTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/7490/branches/1.2/tests/Query/MysqlSubqueryTestCase.php
+END
+OrderbyTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7490/branches/1.2/tests/Query/OrderbyTestCase.php
+END
+CopyTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/7490/branches/1.2/tests/Query/CopyTestCase.php
+END
+WhereTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/7490/branches/1.2/tests/Query/WhereTestCase.php
+END
+ComponentAliasTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/7490/branches/1.2/tests/Query/ComponentAliasTestCase.php
+END
+CheckTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/7490/branches/1.2/tests/Query/CheckTestCase.php
+END
+LimitTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/7490/branches/1.2/tests/Query/LimitTestCase.php
+END
+HydrateNoneTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/7490/branches/1.2/tests/Query/HydrateNoneTestCase.php
+END
+UpdateTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/7490/branches/1.2/tests/Query/UpdateTestCase.php
+END
+GroupbyTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7490/branches/1.2/tests/Query/GroupbyTestCase.php
+END
+IdentifierQuotingTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/7490/branches/1.2/tests/Query/IdentifierQuotingTestCase.php
+END

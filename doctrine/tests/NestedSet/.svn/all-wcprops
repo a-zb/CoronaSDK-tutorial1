@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/7490/branches/1.2/tests/NestedSet
+END
+MultiRootTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/7490/branches/1.2/tests/NestedSet/MultiRootTestCase.php
+END
+HydrationTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/7490/branches/1.2/tests/NestedSet/HydrationTestCase.php
+END
+SingleRootTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/7490/branches/1.2/tests/NestedSet/SingleRootTestCase.php
+END
+TimestampableMultiRootTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/7490/branches/1.2/tests/NestedSet/TimestampableMultiRootTestCase.php
+END

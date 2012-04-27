@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/7683/branches/1.2/tests/migration_classes
+END
+7_test.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/7683/branches/1.2/tests/migration_classes/7_test.class.php
+END
+8_test.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/7683/branches/1.2/tests/migration_classes/8_test.class.php
+END
+2_add_user.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/7683/branches/1.2/tests/migration_classes/2_add_user.class.php
+END
+4_drop_profile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/7683/branches/1.2/tests/migration_classes/4_drop_profile.class.php
+END
+9_test.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/7683/branches/1.2/tests/migration_classes/9_test.class.php
+END
+1_add_phonenumber.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/7683/branches/1.2/tests/migration_classes/1_add_phonenumber.class.php
+END
+3_add_profile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/7683/branches/1.2/tests/migration_classes/3_add_profile.class.php
+END
+10_test.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/7683/branches/1.2/tests/migration_classes/10_test.class.php
+END
+11_test.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/7683/branches/1.2/tests/migration_classes/11_test.class.php
+END
+5_test.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/7683/branches/1.2/tests/migration_classes/5_test.class.php
+END
+6_test.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/7683/branches/1.2/tests/migration_classes/6_test.class.php
+END

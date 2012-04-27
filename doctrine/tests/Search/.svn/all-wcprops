@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/7490/branches/1.2/tests/Search
+END
+QueryWeightTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/7490/branches/1.2/tests/Search/QueryWeightTestCase.php
+END
+IndexerTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7490/branches/1.2/tests/Search/IndexerTestCase.php
+END
+FileTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/7490/branches/1.2/tests/Search/FileTestCase.php
+END
+QueryTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/7490/branches/1.2/tests/Search/QueryTestCase.php
+END

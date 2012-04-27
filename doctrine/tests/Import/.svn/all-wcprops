@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/7689/branches/1.2/tests/Import
+END
+PluginHierarchyTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/7490/branches/1.2/tests/Import/PluginHierarchyTestCase.php
+END
+MssqlTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/7490/branches/1.2/tests/Import/MssqlTestCase.php
+END
+SchemaTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7490/branches/1.2/tests/Import/SchemaTestCase.php
+END
+SqliteTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7490/branches/1.2/tests/Import/SqliteTestCase.php
+END
+MysqlTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/7490/branches/1.2/tests/Import/MysqlTestCase.php
+END
+OracleTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7490/branches/1.2/tests/Import/OracleTestCase.php
+END
+BuilderTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7490/branches/1.2/tests/Import/BuilderTestCase.php
+END
+PgsqlTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/7689/branches/1.2/tests/Import/PgsqlTestCase.php
+END

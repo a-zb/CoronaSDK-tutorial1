@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/7490/branches/1.2/tests/Migration
+END
+DiffTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7490/branches/1.2/tests/Migration/DiffTestCase.php
+END
+BaseTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7490/branches/1.2/tests/Migration/BaseTestCase.php
+END

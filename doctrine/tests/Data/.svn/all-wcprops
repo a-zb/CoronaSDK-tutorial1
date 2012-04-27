@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/7490/branches/1.2/tests/Data
+END
+ExportTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/7490/branches/1.2/tests/Data/ExportTestCase.php
+END
+ImportTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/7490/branches/1.2/tests/Data/ImportTestCase.php
+END

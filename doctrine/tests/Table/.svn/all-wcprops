@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/7490/branches/1.2/tests/Table
+END
+NamedQueryTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/7490/branches/1.2/tests/Table/NamedQueryTestCase.php
+END
+RemoveColumnTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/7490/branches/1.2/tests/Table/RemoveColumnTestCase.php
+END

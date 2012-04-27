@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/6561/branches/1.2/tests/CliTestCase/testLoadtasksLoadsDoctrineStyleTasksFromTheSpecifiedDirectory
+END
+DoctrineStyleTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/6561/branches/1.2/tests/CliTestCase/testLoadtasksLoadsDoctrineStyleTasksFromTheSpecifiedDirectory/DoctrineStyleTask.php
+END
+EmptyFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/6561/branches/1.2/tests/CliTestCase/testLoadtasksLoadsDoctrineStyleTasksFromTheSpecifiedDirectory/EmptyFile.php
+END
+TaskDeclaredInAnIncFile.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/6561/branches/1.2/tests/CliTestCase/testLoadtasksLoadsDoctrineStyleTasksFromTheSpecifiedDirectory/TaskDeclaredInAnIncFile.inc.php
+END
+should-be-ignored.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/6561/branches/1.2/tests/CliTestCase/testLoadtasksLoadsDoctrineStyleTasksFromTheSpecifiedDirectory/should-be-ignored.php
+END
+InvalidClassNameForATask.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/6561/branches/1.2/tests/CliTestCase/testLoadtasksLoadsDoctrineStyleTasksFromTheSpecifiedDirectory/InvalidClassNameForATask.php
+END

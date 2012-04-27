@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/7490/branches/1.2/tests/Connection
+END
+MssqlTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/7490/branches/1.2/tests/Connection/MssqlTestCase.php
+END
+SqliteTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/7490/branches/1.2/tests/Connection/SqliteTestCase.php
+END
+ProfilerTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/7490/branches/1.2/tests/Connection/ProfilerTestCase.php
+END
+MysqlTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/7490/branches/1.2/tests/Connection/MysqlTestCase.php
+END
+OracleTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/7490/branches/1.2/tests/Connection/OracleTestCase.php
+END
+PgsqlTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/7490/branches/1.2/tests/Connection/PgsqlTestCase.php
+END
+CustomTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/7490/branches/1.2/tests/Connection/CustomTestCase.php
+END
+UnitOfWork.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7490/branches/1.2/tests/Connection/UnitOfWork.php
+END

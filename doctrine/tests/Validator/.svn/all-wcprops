@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/7637/branches/1.2/tests/Validator
+END
+ForeignKeysTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/7637/branches/1.2/tests/Validator/ForeignKeysTestCase.php
+END
+PastTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7490/branches/1.2/tests/Validator/PastTestCase.php
+END
+FutureTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/7490/branches/1.2/tests/Validator/FutureTestCase.php
+END
